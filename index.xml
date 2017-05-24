@@ -6,7 +6,7 @@
     <description>Recent content on Alabaster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2016 15:57:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 15:57:19 +0200</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Getting Started</title>
       <link>https://example.org/getting-started/</link>
-      <pubDate>Sat, 23 Apr 2016 15:57:19 +0200</pubDate>
+      <pubDate>Sun, 23 Apr 2017 15:57:19 +0200</pubDate>
       
       <guid>https://example.org/getting-started/</guid>
-      <description>Installation Install Hugo this is mahdi2 Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases.
+      <description>Installation Install Hugo this is mahdi2222 Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases.
 {{&amp;lt; admonition title=&amp;ldquo;Note&amp;rdquo; type=&amp;ldquo;note&amp;rdquo; &amp;gt;}} Currently, this theme makes use of features that will be part of the Hugo v0.16 release. You have to compile the latest developement version yourself. {{&amp;lt; /admonition &amp;gt;}}
 Let&amp;rsquo;s make sure Hugo is set up as expected.</description>
     </item>
