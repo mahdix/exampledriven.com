@@ -55,7 +55,7 @@ Planned features Localization Currently, it is possible to collect all strings i
     <item>
       <title>Foreword</title>
       <link>http://example.org/</link>
-      <pubDate>Sat, 23 Apr 2016 15:21:22 +0200</pubDate>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
       
       <guid>http://example.org/</guid>
       <description>222What is Alabaster anyway? mahditer Alabaster was originally a theme for the popular documentation tool Sphinx. This theme port to Hugo theme is all about documentations. It should allow you to easily create a documentation for your projects.
