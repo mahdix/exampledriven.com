@@ -1,0 +1,22 @@
+language: go
+before_script:
+    - go get -u -v github.com/spf13/hugo
+
+env:
+  global:
+    secure: UsAjOtnpBDKkjjSrEaiybIeBAskWybq6MfA3juX7pRkuBVHui4EwPIWcwtk1i5mpMtVDi3cVEXBG1Bcm/ha9/Iquzou01QDz86Em+r+bRYl1Q3yJHRnTIL4MVFaLYdqf4iKxDgbtc++3NVKyveNlddYk7lO81CMuHVChWXU6VLPAesh/Dj+QL4ncQG9jLw3GBr05w5jpzsi1+vUJoqn4GrpoxdnunR0Ec96AELCz5QUKyWVgXCcrikM/2odTxkcKLcXmW7SGIGy/yNjOfWUJuABEVc1CBZKP6nvH3ESfCJMM8C/XbFShcDwc+27vVOPwtrYHeN8hxvtCYQW7RNIdU4ndkOsF6MDUJT5NA9vlnB5cn6BBIImTRowDqrX00ZCRoh4n5bIQUIzrgVwSN6qrqKwAS/WeKkiDSnCz9l4OnVLioHEvdZkXp8SsNt8KQcXHQTUH9Wm25qru7oZsYLk8i7q+/ne2VukSpecCscX/xvDz7HMQC/DuhECJgEF2szb0VMf2BOfYGd4Yr9hwGrBY3NKsV1yZznie9yvybT9SsEWkcdiBDxwUj+2lOpmYWWV4cCmAzQLdTOG5A/QYbJTbdrSpO1PPTt82se1r9gwgiWj2fc1DgxZ5JT5kCIcCYoEaz2aCiCL4JLal9Y3oHtVeu7EK/Q1pWpgs9X/juKd57Ws=
+
+script:
+    - git config --global user.email "mahdix@gmail.com"
+    - git config --global user.name "Mahdi"
+    - git clone git@github.com:mahdix/exampledriven.com.git
+    - cd exampledriven.com
+    - git checkout gh-pages
+    - git checkout master
+    - hugo
+    - git worktree add public gh-pages
+    - git remote add origin-pages https://${GH_TOKEN}@github.com/mahdix/exampledriven.com.git > /dev/null 2>&1
+    - cd public
+    - git add .
+    - git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+    - git push --quiet --set-upstream origin-pages gh-pages 
