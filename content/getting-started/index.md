@@ -9,6 +9,7 @@ weight: 10
 
 ### Install Hugo
 
+this is mahdi2
 Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. 
 
 {{< admonition title="Note" type="note" >}}
