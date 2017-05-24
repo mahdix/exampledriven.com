@@ -11,10 +11,9 @@ script:
     - popd
     - git config --global user.email "mahdix@gmail.com"
     - git config --global user.name "Mahdi"
-    - git branch -avvv
     - git clone https://${GH_TOKEN}@github.com/mahdix/exampledriven.com.git /tmp/public --branch gh-pages
-    - /tmp/hugo/hugo -d /tmp/public || true
+    - /tmp/hugo/hugo -t hugo-alabaster-theme -d /tmp/public || true
     - cd /tmp/public
     - git add .
-    - git commit --message "Travis build"
+    - git commit --allow-empty --message "Travis build"
     - git push origin HEAD
