@@ -1,5 +1,5 @@
 ---
-date: 2016-04-23T15:57:19+02:00
+date: 2017-04-23T15:57:19+02:00
 menu: "main"
 title: Getting Started
 weight: 10
@@ -9,7 +9,7 @@ weight: 10
 
 ### Install Hugo
 
-this is mahdi2
+this is mahdi2222
 Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases. 
 
 {{< admonition title="Note" type="note" >}}
