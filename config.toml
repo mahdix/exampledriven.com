@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "exampledriven.com/"
 languageCode = "en-us"
 metadataformat = "yaml"
 title = "Alabaster"
