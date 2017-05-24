@@ -13,7 +13,7 @@ script:
     - tar xvf hugo_0.21_Linux-64bit.tar.gz
     - popd
     - git config --global user.email "mahdix@gmail.com"
-    - git config --global user.name "Mahdi"
+    - git config --global user.name "Mahdi Mohammadinasab"
     - git clone https://${GH_TOKEN}@github.com/mahdix/exampledriven.com.git /tmp/public --branch gh-pages
     - /tmp/hugo/hugo -t hugo-alabaster-theme -d /tmp/public || true
     - cd /tmp/public
