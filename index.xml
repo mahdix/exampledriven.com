@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example Driven</title>
+    <title>Home on Example Driven</title>
     <link>/</link>
-    <description>Recent content on Example Driven</description>
+    <description>Recent content in Home on Example Driven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Apr 2017 15:21:22 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Home</title>
-      <link>/</link>
-      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
-      
-      <guid>/</guid>
-      <description>This website is dedicated to examples of different programming languages which are trying to help coders get started in learning a new language.
-The main focus of this website is simplicity and being straight forward. We try to provide minimal, complete and verifiable code examples https://stackoverflow.com/help/mcve to teach a specific point about a programming language.
-This is a public website, anyone can contribute! If you want to help, simply go to https://github.</description>
-    </item>
     
     <item>
       <title>basics</title>
