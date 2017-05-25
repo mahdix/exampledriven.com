@@ -3,34 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2017-04-23T15:57:19+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/adding-content/</loc>
-    <lastmod>2016-04-23T20:26:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/roadmap/</loc>
-    <lastmod>2016-04-23T20:08:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/good-to-great/</loc>
-    <lastmod>2017-05-23T11:43:16-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2017-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/</loc>
-    <lastmod>2016-04-23T20:26:34+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/csharp/basics/basics/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/basics/basics/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/csharp/oop/oop/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/oop/oop/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/csharp/basics/vars/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/basics/vars/</loc>
+    <lastmod>2017-05-25T05:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/csharp/basics/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/csharp/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/basics/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/csharp/oop/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
@@ -40,25 +69,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-23T15:57:19+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2017-04-23T15:57:19+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2017-05-23T11:43:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/roadmap/</loc>
-    <lastmod>2016-04-23T20:08:11+01:00</lastmod>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   

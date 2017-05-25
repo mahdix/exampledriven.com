@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Example Driven</title>
+    <link>/csharp/basics/</link>
+    <description>Recent content in C# on Example Driven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2017 15:21:22 +0200</lastBuildDate>
+    
+	<atom:link href="/csharp/basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>basics</title>
+      <link>/csharp/basics/basics/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/basics/basics/</guid>
+      <description>basics.md</description>
+    </item>
+    
+    <item>
+      <title>oop title</title>
+      <link>/csharp/oop/oop/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/oop/oop/</guid>
+      <description>oop</description>
+    </item>
+    
+    <item>
+      <title>vars</title>
+      <link>/csharp/basics/vars/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/basics/vars/</guid>
+      <description>def Double_In(old_function): def new_function(arg): #only works if the old function has one argument return old_function(arg*2) #modify the argument passed return new_function  </description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>/csharp/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/csharp/</guid>
+      <description>List of topics about C# language
+Basics</description>
+    </item>
+    
+  </channel>
+</rss>

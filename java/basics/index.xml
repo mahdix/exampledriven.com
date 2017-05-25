@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java basics on Example Driven</title>
+    <link>/java/basics/</link>
+    <description>Recent content in Java basics on Example Driven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2017 15:21:22 +0200</lastBuildDate>
+    
+	<atom:link href="/java/basics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>basics</title>
+      <link>/java/basics/basics/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/basics/basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oop title 1</title>
+      <link>/java/oop/oop/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/oop/oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vars</title>
+      <link>/java/basics/vars/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/basics/vars/</guid>
+      <description>vars in java</description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/java/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/java/</guid>
+      <description>List of topics about Java language
+Basics</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,63 +6,94 @@
     <description>Recent content on Example Driven</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2017 15:57:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 15:21:22 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting Started</title>
-      <link>/getting-started/</link>
-      <pubDate>Sun, 23 Apr 2017 15:57:19 +0200</pubDate>
-      
-      <guid>/getting-started/</guid>
-      <description>Installation Install Hugo this is mahdi2222 Hugo itself is just a single binary without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases.
-Note
-Currently, this theme makes use of features that will be part of the Hugo v0.16 release. You have to compile the latest developement version yourself.
- Let&amp;rsquo;s make sure Hugo is set up as expected. You should see a similar version number in your terminal:</description>
-    </item>
-    
-    <item>
-      <title>Adding content</title>
-      <link>/adding-content/</link>
-      <pubDate>Sat, 23 Apr 2016 20:26:34 +0200</pubDate>
-      
-      <guid>/adding-content/</guid>
-      <description>Hello world Let&amp;rsquo;s create our first content file for your documentation. Open a terminal and add the following command for each new file you want to add. Replace &amp;lt;section-name&amp;gt; with a general term that describes your document in detail.
-hugo new &amp;lt;section-name&amp;gt;/filename.md  Visitors of your website will find the final document under www.example.com/&amp;lt;section-name&amp;gt;/filename/.
-Since it&amp;rsquo;s possible to have multiple content files in the same section I recommend to create at least one index.</description>
-    </item>
-    
-    <item>
-      <title>Roadmap</title>
-      <link>/roadmap/</link>
-      <pubDate>Sat, 23 Apr 2016 20:08:11 +0100</pubDate>
-      
-      <guid>/roadmap/</guid>
-      <description>Quo vadis? The port of the original Alabaster theme has replicated nearly all of its features. A few are still missing, but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
-Planned features Localization Currently, it is possible to collect all strings in a single place for easy customization. However, this only enables you to define all strings in a single language.</description>
-    </item>
-    
-    <item>
-      <title>good to great</title>
-      <link>/post/good-to-great/</link>
-      <pubDate>Tue, 23 May 2017 11:43:16 -0400</pubDate>
-      
-      <guid>/post/good-to-great/</guid>
-      <description>this is a test</description>
-    </item>
-    
-    <item>
-      <title>Foreword</title>
+      <title>Home</title>
       <link>/</link>
       <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
       
       <guid>/</guid>
-      <description>{{ range where .Site.Pages &amp;ldquo;Section&amp;rdquo; &amp;ldquo;adding-content&amp;rdquo; }}
-444What is Alabaster anyway? mahditer Alabaster was originally a theme for the popular documentation tool Sphinx. This theme port to Hugo theme is all about documentations. It should allow you to easily create a documentation for your projects.
-Fabric and Invoke are two examples of the Alabaster theme in the wild.
-1The following pages will guide you through the setup, introduce you to the very basics of Hugo and show you the capabilities of this theme.</description>
+      <description>This website is dedicated to examples of different programming languages which are trying to help coders get started in learning a new language.
+The main focus of this website is simplicity and being straight forward. We try to provide minimal, complete and verifiable code examples https://stackoverflow.com/help/mcve to teach a specific point about a programming language.
+This is a public website, anyone can contribute! If you want to help, simply go to https://github.</description>
+    </item>
+    
+    <item>
+      <title>basics</title>
+      <link>/csharp/basics/basics/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/basics/basics/</guid>
+      <description>basics.md</description>
+    </item>
+    
+    <item>
+      <title>basics</title>
+      <link>/java/basics/basics/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/basics/basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oop title</title>
+      <link>/csharp/oop/oop/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/oop/oop/</guid>
+      <description>oop</description>
+    </item>
+    
+    <item>
+      <title>oop title 1</title>
+      <link>/java/oop/oop/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/oop/oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vars</title>
+      <link>/csharp/basics/vars/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/csharp/basics/vars/</guid>
+      <description>def Double_In(old_function): def new_function(arg): #only works if the old function has one argument return old_function(arg*2) #modify the argument passed return new_function  </description>
+    </item>
+    
+    <item>
+      <title>vars</title>
+      <link>/java/basics/vars/</link>
+      <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
+      
+      <guid>/java/basics/vars/</guid>
+      <description>vars in java</description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>/csharp/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/csharp/</guid>
+      <description>List of topics about C# language
+Basics</description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/java/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/java/</guid>
+      <description>List of topics about Java language
+Basics</description>
     </item>
     
   </channel>
