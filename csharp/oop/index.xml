@@ -35,7 +35,8 @@
       <pubDate>Thu, 25 May 2017 05:21:06 +0100</pubDate>
       
       <guid>/csharp/basics/vars/</guid>
-      <description>def Double_In(old_function): def new_function(arg): #only works if the old function has one argument return old_function(arg*2) #modify the argument passed return new_function  </description>
+      <description>this is an example from Python not C#!
+def Double_In(old_function): def new_function(arg): #only works if the old function has one argument return old_function(arg*2) #modify the argument passed return new_function  </description>
     </item>
     
     <item>
