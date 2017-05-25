@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main>
+list html template 
+{{ .Content }}
+<ul class="contents">
+    {{ range .Data.Pages }}
+      {{ if eq .File.Dir $.File.Dir }}
+        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+      {{ end }}
+    {{ end }}
+</ul>
+</main>
+{{ end }}

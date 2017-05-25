@@ -24,4 +24,10 @@
 	{{- else -}}
 	<link rel="shortcut icon" href="{{ $.Site.BaseURL }}favicon.ico" type="image/x-icon"/>
 	{{- end }}
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/monokai-sublime.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    {{ template "_internal/google_analytics_async.html" . }}
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+
 </head>

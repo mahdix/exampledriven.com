@@ -1,3 +1,16 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Example Driven"
+theme="hugo-alabaster-theme"
+googleAnalytics = "UA-429373-6"
+
+[params.sidebar]
+  logo = "logo.png"
+  show_relations = false
+[params]
+  name="Example Driven"
+  description="Learn coding by example - simple, easy, straight forward"
+  favicon = "favicon.ico"
+[params.footer]
+  copyright = "[ExampleDriven.com](http://exampledriven.com), Creative Commons Attribution 3.0 Unported License."
+  show_powered_by = true
