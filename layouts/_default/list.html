@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main>
 <h1>{{ .Title }}</h1>
+<a style="font-size:9pt;text-decoration: none;" href="https://github.com/mahdix/exampledriven.com/edit/master/content/{{ .File.Path }}">(Edit this page)</a>
 {{ .Content }}
 <ul class="contents">
     {{ range .Data.Pages }}
