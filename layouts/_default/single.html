@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1> 
+    <span style="font-size:9pt">
+        {{ trim .File.Dir "/" }}
+        <a style="text-decoration: none;" href="https://github.com/mahdix/exampledriven.com/edit/master/content/{{ .File.Path }}">(Edit this page)</a>
+    </span>
+
+    {{ .Content }}
+
+{{ end }}
