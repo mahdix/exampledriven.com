@@ -41,6 +41,6 @@ This website is created using Hugo and we use Markdown as content format. You ca
 
 # Feedback
 
-Let me know what you think about this website by sending emails to mahdix at gmail dott com..
+Let me know what you think about this website by sending emails to mahdix at gmail dott comm.
 
 Thanks!
