@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/csharp/basics/comments/</loc>
+    <lastmod>2017-05-25T22:51:57+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/csharp/basics/basics/</loc>
     <lastmod>2017-05-25T05:21:06+01:00</lastmod>
   </url>
@@ -38,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/csharp/basics/</loc>
+    <loc>/csharp/</loc>
     <lastmod>2017-04-23T15:21:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/csharp/</loc>
+    <loc>/csharp/basics/</loc>
     <lastmod>2017-04-23T15:21:22+02:00</lastmod>
   </url>
   
