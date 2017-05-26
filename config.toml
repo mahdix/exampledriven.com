@@ -3,13 +3,14 @@ languageCode = "en-us"
 title = "Example Driven"
 theme="hugo-alabaster-theme"
 googleAnalytics = "UA-429373-6"
+pluralizelisttitles = false
 
 [params.sidebar]
   logo = "logo.png"
   show_relations = false
 [params]
   name="Example Driven"
-  description="Learn coding by example: simple, easy, straight forward"
+  description="Learn coding by example"
   favicon = "favicon.ico"
 [params.footer]
   copyright = "[ExampleDriven.com](http://exampledriven.com), Creative Commons Attribution 3.0 Unported License."
