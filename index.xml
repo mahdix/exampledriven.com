@@ -12,6 +12,107 @@
     
     
     <item>
+      <title>C#</title>
+      <link>/csharp/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/csharp/</guid>
+      <description>List of topics about C# language
+Basics</description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/go/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/go/</guid>
+      <description>List of topics about Go programming language</description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/java/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/java/</guid>
+      <description>List of topics about Java language
+Basics</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/javascript/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/javascript/</guid>
+      <description>List of topics about Javascript programming language</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/python/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/python/</guid>
+      <description>List of topics about Python programming language</description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>/scala/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/scala/</guid>
+      <description>List of topics about Scala programming language</description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>/ruby/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/ruby/</guid>
+      <description>List of topics about Ruby programming language</description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>/rust/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/rust/</guid>
+      <description>List of topics about Rust programming language</description>
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>/perl/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/perl/</guid>
+      <description>List of topics about Perl programming language</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/cpp/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/cpp/</guid>
+      <description>List of topics about C++ programming language</description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>/c/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/c/</guid>
+      <description>List of topics about C programming language</description>
+    </item>
+    
+    <item>
       <title>comments</title>
       <link>/csharp/basics/comments/</link>
       <pubDate>Thu, 25 May 2017 22:51:57 +0100</pubDate>
@@ -73,26 +174,6 @@ def Double_In(old_function): def new_function(arg): #only works if the old funct
       
       <guid>/java/basics/vars/</guid>
       <description>vars in java</description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>/csharp/</link>
-      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
-      
-      <guid>/csharp/</guid>
-      <description>List of topics about C# language
-Basics</description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>/java/</link>
-      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
-      
-      <guid>/java/</guid>
-      <description>List of topics about Java language
-Basics</description>
     </item>
     
   </channel>

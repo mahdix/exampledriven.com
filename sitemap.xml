@@ -8,6 +8,61 @@
   </url>
   
   <url>
+    <loc>/csharp/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/go/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/java/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/javascript/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/python/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/scala/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ruby/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rust/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/perl/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cpp/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/c/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/csharp/basics/comments/</loc>
     <lastmod>2017-05-25T22:51:57+01:00</lastmod>
   </url>
@@ -43,17 +98,7 @@
   </url>
   
   <url>
-    <loc>/csharp/</loc>
-    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/csharp/basics/</loc>
-    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/java/</loc>
     <lastmod>2017-04-23T15:21:22+02:00</lastmod>
   </url>
   
@@ -68,7 +113,61 @@
   </url>
   
   <url>
+    <loc>/c/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cpp/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/go/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/javascript/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/perl/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/python/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ruby/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rust/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/scala/</loc>
+    <lastmod>2017-04-23T15:21:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   

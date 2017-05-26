@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Example Driven</title>
+    <link>/python/</link>
+    <description>Recent content in Python on Example Driven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2017 15:21:22 +0200</lastBuildDate>
+    
+	<atom:link href="/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>/python/</link>
+      <pubDate>Sun, 23 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/python/</guid>
+      <description>List of topics about Python programming language</description>
+    </item>
+    
+  </channel>
+</rss>
