@@ -9,7 +9,7 @@ weight: 1
 
 **Welcome to ExampleDriven!**
 
-This website is for coders get started with learning a new language or busy developer who do not have time to read tons of cryptic manuals.
+This website is to help coders get started with learning a new language or busy developer who do not have time to read tons of cryptic manuals.
 
 # Objective
 
