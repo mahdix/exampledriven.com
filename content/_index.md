@@ -27,16 +27,17 @@ Each content is categorized under a programming languages and a  specific group 
 It includes these parts:
 
  1. **Question**: A complete, clear and well-written question that the content is trying to answer (e.g. What does `finally` do?)
- 2. **Answer**: A short code example which demonstrates the solution to the question and also explans _Why_'s. Although any exaplanation is better be in the form of comments inside the code, in rare cases the answer section can start with a short explanation.
- 3. **Reference**: In case there are other resources (documentation, forum, source code, ...) that can be useful for the reader, they will be listed in this part. 
-
+ 2. **Answer**: A short code example which demonstrates the solution to the question and also explans _Why_'s. Although any exaplanation is better be in the form of comments inside the code, in rare cases the answer section can start with a short non-code explanation.
+ 3. **Reference**: In case there are other resources (documentation, forum, source code, ...) that can be useful for the reader, they will be listed in this part.
+ 4. **Author**: Name and link to profile of the author.
+ 
 # Contribution
 
 This is a public website! Anyone can contribute and everyone is encouraged to contribute! 
 
 If you want to help, you can use links provided in website pages to edit content or add a new page. These links redirect you to Github for edit. Alternatively you can create your PR to add or edit a content or just send me an email with your content (mahdix at gmail dott comm).
 
-This website is created using Hugo and we use Markdown as content format. You can visit <http://www.markdowntutorial.com/> to learn Markdown or 
+This website is created using Hugo and we use Markdown as the content format. It is very easy to learn and use. You can visit <http://www.markdowntutorial.com/> to learn Markdown or 
 <https://gohugo.io/overview/quickstart/> to learn more about Hugo.
 
 # Feedback
